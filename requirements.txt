@@ -1,0 +1,6 @@
+langchain
+langchain-groq
+serpapi
+openai
+langchain-community
+google-search-results
